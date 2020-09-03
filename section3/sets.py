@@ -1,4 +1,4 @@
-#definition - UNORDERED collections of UNIQUE elements
+#definition - UNORDERED collections of UNIQUE elements 
 my_set = set() #empty set
 my_set2 = {1, 2, 3}
 print(my_set2)
@@ -19,7 +19,6 @@ print(set(my_list))
 
 #string are lists of characters so we can get the unique
 #values the same way
-
 city = 'Mississippi'
 print(city)
 print(set(city))
